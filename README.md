@@ -1,9 +1,10 @@
-<center> 
+<p align="center">
 
 # **Hey, I am Gustavo :game_die: Data Enthusiast and ?** 
 
 ### Data Scientist at Poli Júnior | Mechatronics Engineering Student at USP
-</center>
+
+</p>
 
 São Paulo, SP - Brazil
 
