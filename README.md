@@ -1,5 +1,5 @@
-## Hey, I am Gustavo :game_die: Data Enthusiast and 
----
+# Hey, I am Gustavo :game_die: Data Enthusiast and ?
+
 ### Data Scientist at Poli Júnior | Mechatronics Engineering Student at USP
 
 São Paulo, SP - Brazil
