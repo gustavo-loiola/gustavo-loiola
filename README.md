@@ -1,9 +1,8 @@
 <div align="center" style="height: 200px; display: flex; flex-direction: column; justify-content: center;">
   <p>    
-
-  # **Hey, I am Gustavo :game_die: Just a Data Enthusiast 
     
-### Data Scientist at Poli Júnior | Mechatronics Engineering Student at USP</p>
+  # Hey, I am Gustavo :game_die: Data Enthusiast and ?
+  ### Data Scientist at Poli Júnior | Mechatronics Engineering Student at USP</p>
 </div>
 
 São Paulo, SP - Brazil
