@@ -12,6 +12,8 @@ São Paulo, SP - Brazil
 
 <div align="center" style="height: 200px; display: flex; flex-direction: column; justify-content: center;">
   <p>
+    
     ![DiceGif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdiY2h3bmlxN24wM2h3aXBvNHliNHBqbHluN21odXB5OGFoa2p1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4uFElBB9Nt7zq3RZ9/giphy.gif)
+  
   </p>
 </div>
