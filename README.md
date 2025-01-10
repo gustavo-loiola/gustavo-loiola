@@ -7,7 +7,7 @@
 
 ###### São Paulo, SP - Brazil
 
-*Passionate about science, technology and automation. My ambition is to learn and develop techniques in my the subjects of interest, mainly in Data Science, Machine Learning, Artificial Inteligence, research and programming, to create impact, insights and new knowledge.
+*Passionate about science, technology and automation. My ambition is to learn and develop techniques in my the subjects of interest, mainly in Data Science, Machine Learning, Artificial Inteligence, research and programming, to create impact, insights and new knowledge.*
 
 Currently pursuing an Engineering degree in Mechatronics at USP, the top university in Latin America, and working on a Scientific Initiation project to develop forecasting models using neural networks to estimate the demand for hydrogen (H₂) and ammonia in Brazil.
 
