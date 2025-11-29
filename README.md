@@ -2,14 +2,14 @@
   <p>    
     
   # Hey, I am Gustavo :game_die: Just a Data Enthusiast
-  ### Data Scientist at Poli Júnior | Mechatronics Engineering Student at USP</p>
+  ### Computer Science Student at ENSTA Paris | Mechatronics Engineering Student at USP</p>
 </div>
 
-###### São Paulo, SP - Brazil
+###### Paris - France | São Paulo, SP - Brazil
 
 *Passionate about science, technology and automation. My ambition is to learn and develop techniques in my subjects of interest, mainly in Data Science, Machine Learning, Artificial Inteligence, research and programming, to create impact, insights and new knowledge.*
 
-*Currently pursuing an Engineering degree in Mechatronics at USP, the top university in Latin America, and working on a Scientific Initiation project to develop forecasting models using neural networks to estimate the demand for hydrogen (H₂) and ammonia in Brazil.*
+*Mechatronics Engineering student at the University of São Paulo (USP) and Double Degree student at ENSTA Paris – Institut Polytechnique de Paris, where I deepen my studies in Computer Science and Artificial Intelligence.*
 
 <div align="center" style="height: 200px; display: flex; flex-direction: column; justify-content: center;">
   <p>
